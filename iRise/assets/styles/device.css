@@ -1,0 +1,82 @@
+body {
+   font-family: Helvetica, arial, sans-serif;
+}
+
+h1 {
+  font-size: 34px;
+  
+}
+.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+
+.leftbar {
+  float:left;
+  width:50%;
+}
+.rightbar {
+  float:right;
+  width:50%;
+}
+
+form{ display: table;}
+p{ display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; }
+
+.datefield { 
+    display: table-cell; 
+    padding: 0.3em; 
+    border: inset 1px #CCC; 
+    background: #FFF; 
+    border-radius: 4px;
+    color: #666;
+}
+
+.datefield * { 
+    display: inline-block;
+}
+
+.datefield input { 
+    width: 1.7em; 
+    padding: 0 0.4em; 
+    border: none; 
+    font-size: 100%; 
+    background: none;
+    color: #000;            
+}
+.datefield input#year { width:2.5em; }
+.datefield input:focus { outline:none; }
+
+.notbutton {
+  width:95px;
+}
+
+#banner {
+    background:url('UPLIFT_LOGO_horizontal-small.png');
+    width:200px;
+    height:38px;
+
+}
+
+label.login {
+  font-size: 24px;
+}

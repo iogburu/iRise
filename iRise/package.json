@@ -1,9 +1,29 @@
 {
   "name": "i-rise",
   "version": "0.0.0",
-  "description": "iRise",
+  "description": "iRise: A set of dashboards for teacher use in the classroom connecting multiple services and data sources",
   "main": "server.js",
-  "author": {
-    "name": "SJairam"
+  "contributors": [
+    {
+      "name": "Siddarta Jairam",
+      "email": "SJairam@uplifteducation.org"
+    },
+    {
+      "name": "Ihudiya Finda Ogbonnaya-Ogburu",
+      "email": "IOgburu@uplifteducation.org"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidjai/iRise/iRise.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "https": "^1.0.0",
+    "querystring": "^0.2.0",
+    "socket.io": "^1.4.8",
+    "xml2js": "^0.4.17"
   }
 }
