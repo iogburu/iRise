@@ -1,0 +1,9 @@
+{
+  "name": "i-rise",
+  "version": "0.0.0",
+  "description": "iRise",
+  "main": "server.js",
+  "author": {
+    "name": "SJairam"
+  }
+}
