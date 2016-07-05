@@ -1,8 +1,8 @@
-# iRise
+# iRise Education
 A set of dashboards for teacher use in the classroom connecting multiple services and data sources
 
 ## Goal:
-The goal of this tool is to assist teachers to understand their classroom by providing on-time data. iRise provides users with the current progress of their students at the TEK level, and background information of their students (previos grades, attendance, etc)
+The goal of this tool is to assist teachers to understand their classroom by providing on-time data. iRise Education provides users with the current progress of their students at the TEK level, and background information of their students (previous grades, attendance, etc)
 Our hope is to empower teachers to collaborate with other teachers (first iteration) in order to effectively plan and monitor if their students are learning key concepts as they prepare for college.
 
 ## When to Use:
